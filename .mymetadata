@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="FightManager"
+  id="myeclipse.1542702621192"
+  context-root="/FightManager"
+  j2ee-spec="6.0"
+  archive="FightManager.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
